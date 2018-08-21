@@ -1,3 +1,15 @@
+# Week 34
+
+* [__Shipping PWAs as Chrome Extensions__](https://dev.to/samthor/shipping-pwas-as-chrome-extensions-3l5c)  
+Distributing your PWA as a Chrome extension? That's possible! [Sam Thorogood](http://twitter.com/samthor) gives all the details about his Emojityper PWA.
+
+* [__Twitter PWA Release Notes__](https://twitter.com/i/release_notes)  
+[Twitter Lite](https://mobile.twitter.com/) team started to publish the version history. In the latest update: better integration with Windows 10 - viewing live events or moments will add an entry to your Windows Timeline so you can easily return later to see updates. Plus 8 more feature added. 
+ 
+* [__Service Worker Caching Strategies Based on Request Types__](https://medium.com/dev-channel/service-worker-caching-strategies-based-on-request-types-57411dd7652c)  
+[Thomas Steiner](https://medium.com/@steiner.thomas) from Google is explaining how to use Request.destination property in your service worker to determine the type and/or caching strategy of requests.
+
+
 # Week 33
 
 * [__Intent to Implement: Writable Files__](https://groups.google.com/a/chromium.org/forum/#!msg/blink-dev/U4rXcm5CE4Y/3XmVtoAPDwAJ)  
