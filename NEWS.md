@@ -1,3 +1,15 @@
+# Week 35
+
+* [__An Event Apart: Designing Progressive Web Apps__](https://www.lukew.com/ff/entry.asp?1998)  
+In his "The Case for Progressive Web Apps" presentation at An Event Apart in Chicago, [Jason Grigsby](http://twitter.com/grigs_talks) walked through the process of building Progressive Web Apps for your Web experiences and how to go about it. Here's [Luke Wroblewski's](http://twitter.com/lukew) notes from his talk.
+
+* [__Progressive Web-First Apps__](https://medium.com/ben-and-dion/progressive-web-first-apps-6e35b35f073f)  
+[Dion Almaer](https://twitter.com/dalmaer) explains why it makes sense to start with a PWA experience for your new idea. 
+ 
+* [__Make your great application perfect with Google Lighthouse__](https://webagility.com/posts/make-your-great-application-perfect-with-google-lighthouse)  
+Is there any way to verify quality of your app so that you can ship something you can be really proud of? [AlanSemenov](https://twitter.com/AlanSemenov) has an answer!
+ 
+
 # Week 34
 
 * [__Shipping PWAs as Chrome Extensions__](https://dev.to/samthor/shipping-pwas-as-chrome-extensions-3l5c)  
