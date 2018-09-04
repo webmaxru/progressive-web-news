@@ -1,3 +1,16 @@
+
+# Week 36
+
+* [__New top-level HTTP Archive Report on Progressive Web Apps__](https://medium.com/dev-channel/new-top-level-http-archive-report-on-progressive-web-apps-ba67f3084137)  
+PWA part of Alexa Top 1M ranked websites keeps growing at a good pace - says the study by [Thomas Steiner](http://twitter.com/tomayac).
+
+* [__Charting Browser Interoperability__](https://blog.chromium.org/2018/08/charting-browser-interoperability.html)  
+A great helper for all webdevs working with Web Platform cutting edge: a searchable chart of all JavaScript APIs in all browsers from [Chromium Developers](https://twitter.com/ChromiumDev). Including more than [57 items](https://web-confluence.appspot.com/#!/catalog?releases=%5B%22Safari_11.1_OSX_10.13.4%22,%22Edge_17.17134_Windows_10.0%22,%22Firefox_61.0_Windows_10.0%22,%22Chrome_68.0.3440.75_Windows_10.0%22%5D&q=%22pushmanager%20or%20pushsubscription%20or%20serviceworker%22) related to ServiceWorker & WebPush. 
+ 
+* [__Google Search now uses Service Worker for repeated searches__](https://venturebeat.com/2018/09/01/google-search-now-uses-service-worker-for-repeated-searches/)  
+[Emil Protalinski](https://venturebeat.com/author/emil-protalinski/) found out that only Chrome for Android is getting the treatment because other browsers don’t support Navigation Preload, a latency optimization apparently critical for Google Search to run a Service Worker.
+
+
 # Week 35
 
 * [__An Event Apart: Designing Progressive Web Apps__](https://www.lukew.com/ff/entry.asp?1998)  
