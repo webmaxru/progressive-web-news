@@ -1,3 +1,14 @@
+# Week 38
+
+* [__#PWAChat by Windows Dev Docs__](https://twitter.com/WindowsDocs/status/1042111770528075776)  
+Six interesting PWA questions answered by [Aaron Gustafson](https://twitter.com/AaronGustafson). Can I use web components when building PWAs? And more.
+
+* [__Inside look at modern web browser (part 2)__](https://developers.google.com/web/updates/2018/09/inside-browser-part2)  
+You type a URL into a browser. What happens next? A detailed explanation how navigation works by [Mariko Kosaka](https://developers.google.com/web/resources/contributors/kosamari) including Service Worker and Navigation Preload cases. 
+ 
+* [__Service Worker: introducing update check to importScripts()__](https://docs.google.com/document/d/1p_2axsp96GfME5lE4Zd-p5ei80-9OD_brFUjLYyN8B0/edit)  
+[Google Chrome](https://twitter.com/chromiumdev) is about to ship byte-for-byte update check for Service Worker scripts imported by importScripts() which makes updateViaCache option working according to the standard! 
+
 
 # Week 36
 
