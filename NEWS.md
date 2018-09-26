@@ -1,3 +1,15 @@
+# Week 39
+
+* [__Maskable icon proposal for the #WebAppManifest__](https://w3c.github.io/manifest/#icon-masks6)  
+Some platforms have their own preferred icon shape, but as web applications should work across multiple platforms, it will be possible to indicate that an icon can have a user-agent-specified mask applied by adding the maskable purpose - just follow this spec by [Kenneth Christiansen](https://twitter.com/kennethrohde) and team.
+
+* [__Intent to Deprecate and Remove: cache.addAll() duplicate requests__](https://groups.google.com/a/chromium.org/forum/#!msg/blink-dev/l2YVa_M4ODs/o0PqQOl6CgAJ)  
+According [Google Chrome team](https://twitter.com/chromiumdev) plans, starting from Chrome 72 cache.addAll() will reject if there are duplicate requests. Be careful with the resource list you want to cache. 
+ 
+* [__#PWAChat with @AaronGustafson__](https://twitter.com/i/moments/1042194377089536001)  
+Six interesting questions about PWA answered by [Aaron Gustafson](https://twitter.com/AaronGustafson) in a form of Twitter Moment.
+
+
 # Week 38
 
 * [__#PWAChat by Windows Dev Docs__](https://twitter.com/WindowsDocs/status/1042111770528075776)  
